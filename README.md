@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Miroslav Yankov</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yankov-miroslav&label=Profile%20views&color=0e75b6&style=flat" alt="yankov-miroslav" /> </p>
 
-- 🌱 I’m currently learning **Spring Framework**
+- 🌱 I’m currently learning **Spring Data**
 
 - 💬 Ask me about **anything!**
 
